@@ -1,0 +1,41 @@
+Copy/Paste the code from your browser into the subreddit stylesheet
+
+.arrow.upmod { background: url(%%green-upvote-active%%) no-repeat 0 0; }  
+.morelink {
+    z-index: 50;
+    border: 0px;
+    border-bottom: 3px solid #00ff44;
+    border-radius: 2px;
+    background: #00ff44;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    overflow: hidden;
+}
+
+    .morelink:hover {
+        background: none;
+        background-color: #00ff44 !important;
+        color: #000;
+        border-bottom: 3px solid #00ff44;
+    }
+
+    .morelink a {
+        color: #f9f8f8 !important;
+        font-size: 15px;
+        font-family: verdana, sans-serif;
+    }
+
+        .morelink a:hover {
+            color: #f9f8f8 !important;
+        }
+
+.morelink .nub { display: none; }
+
+.side{background:#00ff44;}
+
+body{
+background-color: #00ff44;
+}
+#header {
+    background-color: #00ff44;
+
