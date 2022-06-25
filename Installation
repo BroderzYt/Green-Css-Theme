@@ -3,6 +3,8 @@ THEN, GO INTO THE "GREEN-UPVOTE-ACTIVE" FOLDER AND DOWNLOAD THE IMAGE THAT IS TH
 You will also need to download a cursor image. GO to the "cursor" folder and download the image that is there. MAKE SURE NOT TO RENAME THE IMAGE AND TO KEEP IT NAMED "cursor".
 
 
+-----------------------------THIS SUBREDDIT USES THE "ALL GREEN" CSS THEME------------------------------------------------------------------------------------
+---------------------------------------CREATED BY BRODERZYT---------------------------------------------------------------------------------------------------
 body {
 cursor: url(%%cursor%%), default !important;
 }
