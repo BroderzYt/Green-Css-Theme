@@ -1,4 +1,6 @@
-**Copy/Paste the code from your browser into the subreddit stylesheet. Then, go into the "green-upvote-active" folder and download the image that is there. Make sure not to rename the image and to keep it named "green-upvote-active"**
+COPY/PASTE THE CODE FROM YOUR BROWSER INTO THE SUBREDDIT STYLESHEET. THEN, GO INTO THE "GREEN-UPVOTE-ACTIVE" FOLDER AND DOWNLOAD THE IMAGE THAT IS THERE. MAKE SURE NOT TO RENAME THE IMAGE AND TO KEEP IT NAMED "GREEN-UPVOTE-ACTIVE"
+
+
 
 .arrow.upmod { background: url(%%green-upvote-active%%) no-repeat 0 0; }  
 .morelink {
