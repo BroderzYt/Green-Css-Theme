@@ -1,5 +1,11 @@
-COPY/PASTE THE CODE FROM YOUR BROWSER INTO THE SUBREDDIT STYLESHEET. THEN, GO INTO THE "GREEN-UPVOTE-ACTIVE" FOLDER AND DOWNLOAD THE IMAGE THAT IS THERE. MAKE SURE NOT TO RENAME THE IMAGE AND TO KEEP IT NAMED "GREEN-UPVOTE-ACTIVE"
+COPY/PASTE THE CODE FROM YOUR BROWSER INTO THE SUBREDDIT STYLESHEET. 
+THEN, GO INTO THE "GREEN-UPVOTE-ACTIVE" FOLDER AND DOWNLOAD THE IMAGE THAT IS THERE. MAKE SURE NOT TO RENAME THE IMAGE AND TO KEEP IT NAMED "GREEN-UPVOTE-ACTIVE".
+You will also need to download a cursor image. GO to the "cursor" folder and download the image that is there. MAKE SURE NOT TO RENAME THE IMAGE AND TO KEEP IT NAMED "cursor".
 
+
+body {
+cursor: url(%%cursor%%), default !important;
+}
 
 
 .arrow.upmod { background: url(%%green-upvote-active%%) no-repeat 0 0; }  
@@ -40,4 +46,9 @@ background-color: #00ff44;
 }
 #header {
     background-color: #00ff44;
+
+
+
+
+
 
